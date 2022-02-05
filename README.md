@@ -3,6 +3,8 @@ Contains code for our Infant Health Monitoring System Project with ability to de
 
 
 Contributors:
-[Nikhil M Jain](https://github.com/adamwolfnik)
-[Shubham Sherki](https://github.com/im-Mr-Black)
-[Vanessa CS Pudhucheri]
+
+- [Akshunn Trivedi](https://github.com/triakshunn)
+- [Nikhil M Jain](https://github.com/adamwolfnik)
+- [Shubham Sherki](https://github.com/im-Mr-Black)
+- [Vanessa CS Pudhucheri](https://github.com/VanessaPudhucheri)
